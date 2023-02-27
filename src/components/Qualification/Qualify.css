@@ -1,0 +1,16 @@
+
+.qualify{
+        padding: 2em;
+        margin: 0 auto;
+        text-align: center;
+        box-shadow: var(--shadow);
+        transition: transform 0.2s linear;
+        margin: 5px;
+}
+h2{
+    margin-top: 40px;
+}
+
+h3{
+    margin-bottom: 20px;
+}
